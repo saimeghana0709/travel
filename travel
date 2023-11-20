@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>trael</title>
+</head>
+
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+            <h1><img src="logo.jpg" class="logo"> <span>S</span> AI<span>M</span>EGHANA</h1>
+          </a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#book" data-after="Book">Book</a></li>
+            <li><a href="#packages" data-after="Packages">PACKAGES</a></li>
+            <li><a href="#service" data-after="service">SERVICE</a></li>
+            <li><a href="#gallary" data-after="gallary">GALLARY</a></li>
+            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#contact" data-after="contact">CONTACT</a></li>
+          
+        
+              
+            </form>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="content">
+        <h5>Welcome To World</h5>
+        <h1>Visit <span class="changecontent"></span></h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae, nisi.</p>
+        <a href="#book">Book Place</a>
+    </div>
+  
+  </section>
+  <!-- End Hero Section  -->
+
+  
+<!-- Book Section -->
+<section class="book" id="book">
+  <div class="main-text">
+  
+    <h1>B <span> O O</span> K N <span>O </span> W</h3>
+  </div>
+   <div class="containe">
+  
+    <div class="row">
+        <div class="card">
+          <img src="images2/img3.png" class="img">
+          
+              <div class="col-md-4 py-3 py-md-0">
+            </div>
+            <div class="card">
+          </div>
+            <div class="form">
+              <input type="text" class="form-control" placeholder="Where To" required><br>
+              <input type="text" class="form-control" placeholder="How Many" required><br>
+              <input type="date" class="form-control" placeholder="Arrivals" required><br>
+              <input type="date" class="form-control" placeholder="Leaving" required><br>
+              <textarea class="form-control" rows="5" name="text" placeholder="Enter Your Name & Details"></textarea>
+              <input type="submit" value="Book Now" class="submit" required> 
+            </div>
+            
+          </div>
+
+        </div>
+
+        
+      </div>
+      
+    </div>
+   </div>
+</section>
+    
+<!--Book Section End -->
+
+  <!-- Packages Section -->
+  <section class="packages" id="packages">
+    <div class="main-txt">
+      <h3> <span>P</span> <s>A</s> C <span>k</span>  <S>A</S> <span>G</span> <s>E</s> <span> S</span> </h3>
+    </div>
+    <div class="containes">
+
+      <div class="row">
+
+        <div class="col-md-4 py-3 py-md-0">
+          <img src="images2/download (6).jpeg" class="imga">
+    
+          <div class="card">
+            
+            <i class="fas fa-hotel"></i>
+            
+            <div class="card-body">
+              <h4> <img src="images2/download (7).jpeg" class="logos">United Kingdom</h4>
+              <p>The United Kingdom, made up of England, <br> 
+                Scotland, Wales and Northern Ireland, 
+               <br> <img src="images2/download (4).jpeg" class="im">
+              </p>
+              <h6>Price: <strong>$500</strong></h6>
+              <a href="#book">BOOK NOW</a>
+              <div class="star">
+                <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star "></i>
+                    <i class="fa-solid fa-star "></i>
+              </div>
+            </div>
+          </div>
+    
+        </div>
+       
+        <div class="col-md-4 py-3 py-md-0">
+          <img src="images2/download (13).jpeg" class="imga">
+          <div class="card">
+            <i class="fas fa-utensils"></i>
+            <div class="card-body">
+              <h4><img src="images2/download (10).jpeg" class="logos"> ITALY</h4>
+              <p>Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, <br><img src="images2/images.png" class="im"></p>
+              <div class="">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                 <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star "></i>
+                  <i class="fa-solid fa-star "></i>
+              </div>
+              <h6>Price: <strong>$500</strong></h6>
+                  <a href="#book">Book Now</a>
+            </div>
+          </div>
+    
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+          <img src="images2/download (16).jpeg" class="imga">
+          <div class="card">
+            <i class="fas fa-utensils"></i>
+            <div class="card-body">
+              <h4> <img src="images2/download (4).png" class="logos"> SINGAPORE</h4>
+              <p> Singapore is the largest port in Southeast Asia and one of the busiest in the world. It owes its growth and prosperity to its focal position at the southern <br><img src="images2/download (4).jpeg" class="im"></p>
+              <div class="">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                 <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star "></i>
+                  <i class="fa-solid fa-star "></i>
+              </div>
+              <h6>Price: <strong>$500</strong></h6>
+                  <a href="#book">Book Now</a>
+            </div>
+          </div>
+    
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+          <img src="images2/280e85e7a.jpg" class="imga">
+          <div class="card">
+        
+            <i class="fas fa-bullhorn"></i>
+            <div class="card-body">
+              <h4> <img src="images2/download (3).png"class="logos" > MALAYSIA</h4>
+              <p> Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, <br><img src="images2/images (18).jpeg" class="imgg"> </p>
+              <div class="star">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star "></i>
+                <i class="fa-solid fa-star "></i>
+               </div>
+              <h6>Price: <strong>$500</strong></h6>
+                  <a href="#book">Book Now</a>
+            </div>
+          </div>
+    
+        </div>
+        
+      </div>
+      
+
+
+        <div class="row" style="margin-top: 30px;">
+          <div class="col-md-4 py-3 py-md-0">
+            <img src="images2/download (12).jpeg" class="imga">
+      
+            <div class="card">
+              
+              <i class="fas fa-hotel"></i>
+              <div class="card-body">
+                <h4> <img src="images2/download (8).jpeg" class="logos"> INDIA</h4>
+                <p>India, officially the Republic of India, is a country in South Asia.   <br> 
+                
+                 <br> <img src="images2/images (18).jpeg" class="imgg">
+                </p>
+                <h6>Price: <strong>$500</strong></h6>
+                <a href="#book">BOOK NOW</a>
+                <div class="star">
+                  <i class="fa-solid fa-star checked"></i>
+                      <i class="fa-solid fa-star checked"></i>
+                      <i class="fa-solid fa-star checked"></i>
+                      <i class="fa-solid fa-star "></i>
+                      <i class="fa-solid fa-star "></i>
+                </div>
+              </div>
+            </div>
+      
+          </div>
+          <div class="col-md-4 py-3 py-md-0">
+            <img src="images2/i.jpg" class="imga">
+            <div class="card">
+              <i class="fas fa-utensils"></i>
+              <div class="card-body">
+                <h4> <img src="images2/download (2).png" class="logos">UNITED STATE</h4>
+                <p>The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean.  <br><img src="images2/download (4).jpeg" class="im"></p>
+                <div class="">
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                   <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star "></i>
+                    <i class="fa-solid fa-star "></i>
+                </div>
+                <h6>Price: <strong>$500</strong></h6>
+                    <a href="#book">Book Now</a>
+              </div>
+            </div>
+      
+          </div>
+          <div class="col-md-4 py-3 py-md-0">
+            <img src="images2/download (11).jpeg" class="imga">
+            <div class="card">
+              <i class="fas fa-utensils"></i>
+              <div class="card-body">
+                <h4> <img src="images2/download.png" class="logos">AUSTRALIA</h4>
+                <p>Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent.  <br><img src="images2/download (3).jpeg" class="im"></p>
+                <div class="">
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                   <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star "></i>
+                    <i class="fa-solid fa-star "></i>
+                </div>
+                <h6>Price: <strong>$500</strong></h6>
+                    <a href="#book">Book Now</a>
+              </div>
+            </div>
+      
+          </div>
+          <div class="col-md-4 py-3 py-md-0">
+            <img src="images2/images (19).jpeg" class="imga">
+            <div class="card">
+              <i class="fas fa-bullhorn"></i>
+              <div class="card-body">
+                <h4> <img src="images2/images (20).jpeg" class="logos"> SWIZERLAND</h4>
+                <p>Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. <br><img src="images2/images (18).jpeg" class="imgg"></p>
+                <div class="star">
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star "></i>
+                  <i class="fa-solid fa-star "></i>
+                 </div>
+                <h6>Price: <strong>$500</strong></h6>
+                    <a href="#book">Book Now</a>
+              </div>
+            </div>
+            
+      
+          </div>
+          
+        </div>
+    </div>
+
+  
+              
+  </section>
+  <!-- Packages Section End -->
+
+
+
+   <!-- Service section -->
+   <section class="service" id="service">
+    <div class="main-txt">
+      <h4> <span>S</span>E <span>R</span>V <span>I</span>C <span>E</span></h4>
+    </div>
+    <div class="containess">
+       <div class="row">
+
+        
+
+          <div class="card">
+            <i class="fas fa-hotel"></i>
+            <div class="card-body">
+              <img src="images2/download (7).png" class="imgss">
+              <h5>Affordable Hotel</h5>
+              <p></p>
+            </div>
+          </div>
+
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+
+          <div class="card">
+            <i class="fas fa-utensils"></i>
+            <div class="card-body">
+              <img src="images2/download (17).jpeg" class="imgss">
+              <h5>Food & Drinks</h5>
+              <p> </p>
+            </div>
+          </div>
+
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+
+          <div class="card">
+            <i class="fas fa-bullhorn"></i>
+            <div class="card-body">
+              <img src="images2/download (18).jpeg" class="imgss">
+              <h5>Safety Guide</h5>
+              <p></p>
+            </div>
+          </div>
+      </div>
+   </div>
+   <div class="containess">
+    <div class="row">
+
+     
+
+       <div class="card">
+         <i class="fas fa-hotel"></i>
+         <div class="card-body">
+          <img src="images2/download (20).jpeg" class="imgss">
+           <h5>Around The  World</h5>
+           <p></p>
+         </div>
+       </div>
+
+     </div>
+     <div class="col-md-4 py-3 py-md-0">
+
+       <div class="card">
+         <i class="fas fa-utensils"></i>
+         <div class="card-body">
+          <img src="images2/download (6).png" class="imgss">
+           <h5>Fastest Travel</h5>
+           <p> </p>
+         </div>
+       </div>
+
+     </div>
+     <div class="col-md-3 py-3 py-md-0">
+
+       <div class="card">
+         <i class="fas fa-bullhorn"></i>
+         <div class="card-body">
+          <img src="images2/download (22).jpeg" class="imgss">
+           <h5>Adventures</h5>
+           <p></p>
+         </div>
+       </div>
+   </div>
+</div>
+
+ </section>
+  <!--  Services Section End -->
+
+
+<!-- Gallary Section -->
+<section class="gallary" id="gallary">
+ <div class="main-txt">
+  <h5>G <span>aller</span>y</h5>
+ </div>
+ <div class="contai">
+  <div class="rows">
+    <div class="cards">
+    
+      <div class="card-bodys">
+          <img src="images2/images (16).jpeg" class="ima">
+          <img src="images2/download (24).jpeg" class="ima">
+        
+          <img src="images2/images (15).jpeg" class="immss">
+       </div>
+       
+     </div>
+
+   </div>
+   <div class="col-md-4 py-3 py-md-0">
+
+     <div class="cards">
+       <div class="card-body">
+        <div class="owl-carousel">
+          <img src="images2/images (11).jpeg" class="imas">
+          <img src="images2/img.jpg"class="imas">
+          <img src="images2/images (8).jpeg" class="imm">
+      </div>
+       </div>
+     </div>
+
+   </div>
+   <div class="col-md-4 py-3 py-md-0">
+
+    <div class="cards">
+      <div class="card-body">
+       <div class="owl-carousel">
+         <img src="images2/images (6).jpeg" class="imms">
+         <img src="images2/image1.jpeg" class="imm">
+         <img src="images2/image3.jpeg" class="ima">
+         
+         
+     </div>
+      </div>
+    </div>
+
+  </div>
+   <div class="col-md-3 py-3 py-md-0">
+
+     <div class="cards">
+       <i class="fas fa-bullhorn"></i>
+       <div class="card-body">
+        <div class="owl-carousel">
+     </div>
+
+    </div>
+
+  </div>
+  
+ </div>
+ 
+ </div>      
+ <div class="contai">
+  <div class="rows">
+    <div class="cards">
+      <div class="card-body">
+        <div class="owl-carousel">
+          <img src="images2/download (23).jpeg" class="ima">
+          <img src="images2/ii.jpg" class="imas">
+          
+      </div>
+       </div>
+     </div>
+
+   </div>
+   <div class="col-md-4 py-3 py-md-0">
+
+     <div class="cards">
+       <div class="card-body">
+        <div class="owl-carousel">
+          <img src="images2/g1.png" class="imas">
+          <img src="images2/images (7).jpeg" class="immm">
+          <img src="images2/g5.png" class="imaa">
+          <img src="images2/images (21).jpeg" class="ims">
+          <img src="images2/images (10).jpeg" class="imms">
+          <img src="images2/image4.jpeg" class="imaa">
+          <img src="images2/images.jpeg" class="ims">
+      </div>
+    </div>
+     </div>
+
+   </div>
+   <div class="col-md-3 py-3 py-md-0">
+
+     <div class="cards">
+       <i class="fas fa-bullhorn"></i>
+       <div class="card-body">
+        <div class="owl-carousel">
+          <img src="images2/download (2).jpeg" class="imaaa">
+         
+     </div>
+
+    </div>
+
+  </div>
+  
+ </div>    
+</section>
+<!-- Gallary Section End -->
+
+<!-- About Section -->
+<section class="about" id="about">
+  <div class="main-text">
+    <h8 class=""><span>A</span>BOUT <span>O</span>UR <span>T</span>RAVEL </h8>
+  <p class="para"></p>
+  <div class="container about-us-content">
+    <div class="row">
+      <div class="col-lg-3 col-md-12">
+        <div class="img-abouts" >
+          <img src="images2/download.jpeg">
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-12">
+        <div class="content-about">
+          <h9>
+            ABOUT US
+          </h9>
+          <h6 class="sub">Welcome to ExploreWorld!</h6>
+          <P class="paragr">
+            At ExploreWorld,  we  believe  that  travel  is  more   than  just  visiting   new<br> places it's about creating unforgettable experiences that stay with you <br>forever We are passionate about helping you discover the world's most<br> remarkable destinations and ensuring your journey is filled with cultur<br> excitement, adventure, and immersion.
+          </P>
+          <h6 class="sub">Our Story</h6>
+          <P class="paragr">
+            Founded in 2023, ExploreWorld was born out of a shared love for travel <br>and a desire to inspire others to explore the wonders of our planet.
+          </P>
+          <h6 class="sub">Join Us:</h6>
+          <P class="paragr">
+            Start your journey with ExploreWorld today and create memories.
+          </P>
+
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-12">
+        <div class="img-about" >
+          <img src="images2/images (1).jpeg">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About Section  End-->
+<!-- Contact Section -->
+<section id="contact">
+  <div class="contact container">
+    <div>
+      <h1 class="section-title">Contact <span>info</span></h1>
+    </div>
+    <div class="contact-items">
+      <div class="contact-item">
+        <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
+        <div class="contact-info">
+          <h1>Phone</h1>
+          <h2>+1 234 123 1234</h2>
+          <h2>+1 234 123 1234</h2>
+        </div>
+      </div>
+      <div class="contact-item">
+        <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
+        <div class="contact-info">
+          <h1>Email</h1>
+          <h2>info@gmail.com</h2>
+          <h2>abcd@gmail.com</h2>
+        </div>
+      </div>
+      <div class="contact-item">
+        <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
+        <div class="contact-info">
+          <h1>Address</h1>
+          <h2>Andra pradesh , India</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Contact Section -->
+
+  
+    <!-- Footer Start -->
+    <section  class="footer"id="footer">
+      <div class="footer container">
+        <div class="brand">
+          <h1><span></span> <span></span></h1>
+        </div>
+        <h2></h2>
+        <div class="social-icon">
+          <div class="social-item">
+            <a href=" "><img src="images2/download (26).jpeg"></a>
+          </div>
+          <div class="social-item">
+            <a href="#"><img src="images2/download (25).jpeg" /></a>
+          </div>
+          <div class="social-item">
+            <a href="#"><img src="images2/download (27).jpeg" /></a>
+          </div>
+          <div class="social-item">
+            <a href="#"><img src="images2/download (9).png" /></a>
+          </div>
+        </div>
+        <p>Copyright © 2023.Sai All rights reserved</p>
+      </div>
+      
+    </section>
+    <!-- Footer End -->
+  
+  <script src="./app.js"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+
+</html>
